@@ -1,2 +1,2 @@
-# odfe-openvpn
+# odfe-openssl
 Amazon Opendistro for Elasticsearch with OpenSSL
