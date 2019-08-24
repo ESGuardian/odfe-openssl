@@ -1,4 +1,4 @@
-FROM amazon/opendistro-for-elasticsearch:0.9.0
+FROM amazon/opendistro-for-elasticsearch:0.10.0
 MAINTAINER Support <esguardian@outlook.com>
 RUN yum -y update
 RUN yum -y install openssl apr-1.4.8-3.el7_4.1.i686.rpm && yum clean all
